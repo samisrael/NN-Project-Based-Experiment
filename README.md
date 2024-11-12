@@ -123,3 +123,7 @@ print(classification_report(y_test, y_pred))
 ## Output:
 ![image](./images/plot.png)
 ![image](./images/evaluation.png)
+
+## Result:
+
+Thus, a Multilayer Perceptron (MLP) to classify handwritten digits is successfully built in python.
